@@ -1,4 +1,4 @@
-\# YOLO Object Detection
+ YOLO Object Detection
 
 
 
@@ -6,41 +6,41 @@ This project performs real-time object detection and detects the person using YO
 
 
 
-\## Features
+## Features
 
 
 
-\- Real-time object detection using a camera
+- Real-time object detection using a camera
 
-\- YOLO-based detection
+- YOLO-based detection
 
-\- Displays detected objects with bounding boxes and labels
+- Displays detected objects with bounding boxes and labels
 
-\- Press `q` to quit the detection window
-
-
-
-\## Technologies Used
+- Press `q` to quit the detection window
 
 
 
-\- Python
-
-\- YOLO
-
-\- OpenCV
+## Technologies Used
 
 
 
-\## How to Run
+- Python
+
+- YOLO
+
+- OpenCV
 
 
 
-1\. Install the required Python packages.
+## How to Run
 
-2\. Make sure the YOLO model file is available.
 
-3\. Run:
+
+1. Install the required Python packages.
+
+2. Make sure the YOLO model file is available.
+
+3. Run:
 
 
 
