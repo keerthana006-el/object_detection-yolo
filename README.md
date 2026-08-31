@@ -61,7 +61,7 @@ The program detects objects from the webcam in real time.
 
 Detected objects are displayed with bounding boxes and confidence scores.
 
-<!-- Add your detection screenshot here -->
+![YOLO Object Detection](detection_example.png)
 
 ## 📁 Project Structure
 
