@@ -15,9 +15,22 @@ The detected objects are displayed with bounding boxes and confidence scores.
 - Ultralytics
 - OpenCV
 
- 📦 Installation
+📦 Installation
 
 Clone this repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/keerthana006-el/object_detection-yolo.git
+```
+
+Go into the project folder:
+
+```bash
+cd object_detection-yolo
+```
+
+Install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
