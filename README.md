@@ -1,50 +1,23 @@
- YOLO Object Detection
+YOLO Object Detection
 
+A real-time object detection and person counter project built using Python, YOLO, and OpenCV.
 
+📌 Project Description
 
-This project performs real-time object detection and detects the person using YOLO and OpenCV.
+This project uses a YOLO (You Only Look Once) model to detect objects and person in real time using a webcam.
 
+The detected objects are displayed with bounding boxes and confidence scores.
 
-
-## Features
-
-
-
-- Real-time object detection using a camera
-
-- YOLO-based detection
-
-- Displays detected objects with bounding boxes and labels
-
-- Press `q` to quit the detection window
-
-
-
-## Technologies Used
-
-
+ 🛠️ Technologies Used
 
 - Python
-
 - YOLO
-
+- Ultralytics
 - OpenCV
 
+ 📦 Installation
 
-
-## How to Run
-
-
-
-1. Install the required Python packages.
-
-2. Make sure the YOLO model file is available.
-
-3. Run:
-
-
+Clone this repository:
 
 ```bash
-
-python object\_detection.py
-
+git clone YOUR_GITHUB_REPOSITORY_URL
