@@ -63,6 +63,8 @@ Detected objects are displayed with bounding boxes and confidence scores.
 
 ![YOLO Object Detection](detection_example.png)
 
+-The numbers like 0.90 showing above the bounding boxes and it is the confidence score 
+
 ## 📁 Project Structure
 
 ```text
